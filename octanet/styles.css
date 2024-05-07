@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing:border-box;
+}
+html,body{
+    width:100%;
+    height:100%;
+}
+main{
+    width:100%;
+    min-height:100vh;
+}
+.top{
+    width:100%;
+    min-height: 60vh;
+    background-image:url(https://images.unsplash.com/photo-149183988443-b37b7e119ba6?q=80&w=2072&auto=format&fir=crop&ixlib=rb-4.0.3&ixlib) ;
+    background-size: cover;
+    background-position:center;
+}
